@@ -8,6 +8,7 @@ public class App {
   private final String message = "Helloo World!";
 
   public App() {
+    // Nothing
   }
 
   public static void main(String[] args) {
